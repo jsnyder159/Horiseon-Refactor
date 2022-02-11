@@ -10,7 +10,7 @@ Steps taken:
 
 -Added color key to top of CSS for quick reference and ease for future modifications.
 
--CSS selectors and properties were consolidated. Three groups for the same function were made into one.
+-CSS selectors and properties were consolidated. Three groups for the same function were made into one and relabeled for easier navigating.
 
 -CSS was organized so that a given element is with other functions for that element.
 
@@ -22,4 +22,6 @@ Steps taken:
 
 -Website looks like requested mock up and is functional.
 
--Updated title from "website" to "Horiseon maximizing your business's online pressence."
+-Updated title from "website" to "Horiseon website."
+
+-Color palette added via :root for ease of reference for future development.
