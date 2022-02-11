@@ -1,6 +1,7 @@
 # Horiseon-Refactor
 Code refactor request hw1
-https://jsnyder159.github.io/Horiseon-Refactor/#search-engine-optimization
+
+https://jsnyder159.github.io/Horiseon-Refactor/
 
 Requested by Horiseon to update HTML elements to accessibility standards to optimize site for search engines by updating HTML to semantic structure with logical structure, independent of styling and position. Make sure that when viewing icons and images that accessible alt attributes were present. Making sure heading attributes fell into sequential order and the title was concise and descriptive.
 
