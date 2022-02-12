@@ -9,8 +9,6 @@ Steps taken:
 
 -All links for search in header were fixed and will move you to proper location on the page. Search engine optimization was missing "id" attribute.
 
--Added color key to top of CSS for quick reference and ease for future modifications.
-
 -CSS selectors and properties were consolidated. Three groups for the same function were made into one and relabeled for easier navigating.
 
 -CSS was organized so that a given element is with other functions for that element.
@@ -27,4 +25,5 @@ Steps taken:
 
 -Color palette added via :root for ease of reference for future development.
 
-![My Horiseon snip it of mock up.](./assets/images/website.PNG)
+![My Horiseon snip it of my modifications.](./assets/images/website.PNG)
+![My Horiseon snip it of my modifications2.](/assets/images/website2.PNG)
