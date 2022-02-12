@@ -1,6 +1,6 @@
 /* Color palette for site */
 :root {
-    --darkblue:#2a607c;
+    --darkblue:#2a607c; 
     --blue:#0072bb;
     --lightblue:#2589bd;
     --white:#ffffff;
@@ -83,7 +83,7 @@ a {
 
 /* ---------- Main Body Content Boxes ---------- */
 
-/* Text size for p assets*/
+/* Text size for p assets in main body and side bar*/
 p {
     font-size: 16px;
 }

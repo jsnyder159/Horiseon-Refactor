@@ -26,3 +26,5 @@ Steps taken:
 -Updated title from "website" to "Horiseon website."
 
 -Color palette added via :root for ease of reference for future development.
+
+![My Horiseon snip it of mock up.](./assets/images/website.PNG)
